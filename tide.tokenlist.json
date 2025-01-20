@@ -93,6 +93,51 @@
       "extensions": {
         "coingeckoId": "weth"
       }
+    },
+
+    {
+      "chainId": 11155111,
+      "address": "0x2f0A6d2573c3324681CDF953a5C0504D357ffA73",
+      "name": "INC",
+      "symbol": "mINC",
+      "decimals": 18,
+      "logoURI": "https://asset-metadata-service-production.s3.amazonaws.com/asset_icons/126bd3afa049bd6ea7ba62a680b5b84c22ba6d929f207ec54b2999b0e91c7aac.png",
+      "extensions": {
+        "coingeckoId": "pulsex-incentive-token"
+      }
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x5fc977AE8cA01386080a4148eE81E1a3AEE2537e",
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
+      "extensions": {
+        "coingeckoId": "dai-on-pulsechain"
+      }
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xa2d5800A8c3663b5988C3EDB15C03f6cf50f59ca",
+      "name": "PulseX",
+      "symbol": "PulseX",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25417.png",
+      "extensions": {
+        "coingeckoId": "pulsex"
+      }
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xB5A61306c1fB9165A582174a83eDED7357BE6490",
+      "name": "HEX",
+      "symbol": "HEX",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28928.png",
+      "extensions": {
+        "coingeckoId": "hex-pulsechain"
+      }
     }
   ]
 }

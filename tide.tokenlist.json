@@ -22,6 +22,7 @@
     {
       "chainId": 11155111,
       "address": "0xaad56AC1Ac47163553AfFa292FCf1490A9d5e1a8",
+      "logoURI": "https://raw.githubusercontent.com/sammohdnak/tide-lists-v2/refs/heads/main/tide-logo.png",
       "name": "Tide 80 TIDE 20 WETH",
       "symbol": "B-80TIDE-20WETH",
       "decimals": 18,
@@ -32,6 +33,7 @@
     {
       "chainId": 11155111,
       "address": "0xe0B60AEe4F5AB81c04766147Ccb5713D57dCEf05",
+      "logoURI": "https://raw.githubusercontent.com/sammohdnak/tide-lists-v2/refs/heads/main/tide-logo.png",
       "name": "TIDE Governance Token",
       "symbol": "TIDE",
       "decimals": 18,
@@ -42,6 +44,7 @@
     {
       "chainId": 11155111,
       "address": "0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,

@@ -21,7 +21,7 @@
   "tokens": [
     {
       "chainId": 943,
-      "address": "0xc5393473860aadeffe619c863a54423fa01ef443",
+      "address": "0xc5393473860aadeffe619c863A54423fA01Ef443",
       "logoURI": "https://raw.githubusercontent.com/sammohdnak/tide-lists-v2/refs/heads/main/tide-logo.png",
       "name": "Tide 80 TIDE 20 WPLS",
       "symbol": "T-80TIDE-20WPLS",
@@ -44,7 +44,7 @@
     {
       "chainId": 943,
       "address": "0x70499adEBB11Efd915E3b69E700c331778628707",
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24735.png",
       "name": "Wrapped PLS",
       "symbol": "WPLS",
       "decimals": 18,

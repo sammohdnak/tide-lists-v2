@@ -14,13 +14,15 @@
     "id": "ve8020",
     "name": "ve8020",
     "description": "Vote Escrow Pool Tokens",
-    "file": "ve8020.json"
+    "file": "ve8020.json",
+    "pools": ["0xc5393473860aadeffe619c863A54423fA01Ef443"]
   },
 
   {
     "id": "blacklisted",
     "name": "Blacklisted",
     "description": "Blacklisted Pools",
-    "file": "blacklisted.json"
+    "file": "blacklisted.json",
+    "pools": ["0xe90f706463ed612a672c2ee0f554dab0bd2d0011"]
   }
 ]

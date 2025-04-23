@@ -15,7 +15,7 @@
     "name": "ve8020",
     "description": "Vote Escrow Pool Tokens",
     "file": "ve8020.json",
-    "pools": ["0xc5393473860aadeffe619c863A54423fA01Ef443"]
+    "pools": ["0xc5393473860aadeffe619c863a54423fa01ef443"]
   },
 
   {

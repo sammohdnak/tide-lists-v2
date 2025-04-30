@@ -136,7 +136,7 @@
       "name": "pHEX",
       "symbol": "pHEX",
       "decimals": 8,
-      "logoURI": "https://cryptologos.cc/logos/eos-eos-logo.png?v=002",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28928.png",
       "extensions": {
         "coingeckoId": "hex-pulsechain"
       }
@@ -150,6 +150,17 @@
       "logoURI": "https://cryptologos.cc/logos/eos-eos-logo.png?v=002",
       "extensions": {
         "coingeckoId": "balancer"
+      }
+    },
+    {
+      "chainId": 943,
+      "address": "0xbA612cDF827a523e2719E3F89A6D525ADcD396D6",
+      "name": "PulseX",
+      "symbol": "PLSX",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25417.png",
+      "extensions": {
+        "coingeckoId": "pulsex"
       }
     }
   ]

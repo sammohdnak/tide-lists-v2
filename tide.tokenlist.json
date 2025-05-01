@@ -130,6 +130,17 @@
       "extensions": {
         "coingeckoId": "hex-pulsechain"
       }
+    },
+    {
+      "chainId": 943,
+      "address": "0x8a810ea8B121d08342E9e7696f4a9915cBE494B7",
+      "name": "tPulseX",
+      "symbol": "tPLSX",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/25417.png",
+      "extensions": {
+        "coingeckoId": "pulsex"
+      }
     }
   ]
 }

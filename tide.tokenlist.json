@@ -119,17 +119,7 @@
         "coingeckoId": "balancer"
       }
     },
-    {
-      "chainId": 943,
-      "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
-      "name": "DAI",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=002",
-      "extensions": {
-        "coingeckoId": "balancer"
-      }
-    },
+
     {
       "chainId": 943,
       "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",

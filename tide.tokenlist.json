@@ -218,6 +218,17 @@
       "extensions": {
         "coingeckoId": "balancer"
       }
+    },
+    {
+      "chainId": 943,
+      "address": "0x27870518DAf16A00f1D8214C7D332fd6e572B9B3",
+      "name": "INCD",
+      "symbol": "INCD",
+      "decimals": "18",
+      "logoURI": "",
+      "extensions": {
+        "coingeckoId": "balancer"
+      }
     }
   ]
 }

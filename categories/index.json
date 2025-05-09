@@ -23,6 +23,6 @@
     "name": "Blacklisted",
     "description": "Blacklisted Pools",
     "file": "blacklisted.json",
-    "pools": ["0xe90f706463ed612a672c2ee0f554dab0bd2d0011", "0xb7f5c9dcb66dc0f150a4438d0bc037bb173ab7b9"]
+    "pools": ["0xe90f706463ed612a672c2ee0f554dab0bd2d0011", "0xb7f5c9dcb66dc0f150a4438d0bc037bb173ab7b9", "0xab7a3551bb74c7acdd69c4491103f38a283ba130", "0x1342aea1bdd04a69b87d456113cd477fe3d88bd9", "0xa4fce0ca46f8ae2ddbeebf604e9598f9ec381bdf", "0x23c3e7164a6fc0afd126e042b66c6bcf88d06d77"]
   }
 ]

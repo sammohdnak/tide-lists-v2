@@ -43,6 +43,17 @@
       }
     },
     {
+      "chainId": 369,
+      "address": "0xdedBCc8D9458B2556375680FbA297C6aCa6c7DCf",
+      "logoURI": "https://raw.githubusercontent.com/sammohdnak/tide-lists-v2/refs/heads/main/tide-logo.png",
+      "name": "TIDE Governance Token",
+      "symbol": "TIDE",
+      "decimals": 18,
+      "extensions": {
+        "coingeckoId": "balancer"
+      }
+    },
+    {
       "chainId": 943,
       "address": "0xc5393473860aadeffe619c863A54423fA01Ef443",
       "logoURI": "https://raw.githubusercontent.com/sammohdnak/tide-lists-v2/refs/heads/main/tide-logo.png",

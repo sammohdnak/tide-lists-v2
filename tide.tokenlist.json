@@ -21,6 +21,72 @@
   "tokens": [
     {
       "chainId": 369,
+      "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
+      "logoURI": "",
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "extensions": {
+        "coingeckoId": "balancer"
+      }
+    },
+    {
+      "chainId": 369,
+      "address": "0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
+      "logoURI": "",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "balancer"
+      }
+    },
+    {
+      "chainId": 369,
+      "address": "0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f",
+      "logoURI": "",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "balancer"
+      }
+    },
+    {
+      "chainId": 369,
+      "address": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
+      "logoURI": "",
+      "name": "PulseX",
+      "symbol": "PLSX",
+      "decimals": 18,
+      "extensions": {
+        "coingeckoId": "pulsex"
+      }
+    },
+    {
+      "chainId": 369,
+      "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+      "logoURI": "",
+      "name": "Hex",
+      "symbol": "HEX",
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "hex-pulsechain"
+      }
+    },
+    {
+      "chainId": 369,
+      "address": "0x6b32022693210cD2Cfc466b9Ac0085DE8fC34eA6",
+      "logoURI": "",
+      "name": "DECI",
+      "symbol": "DECI",
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "balancer"
+      }
+    },
+    {
+      "chainId": 369,
       "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24735.png",
       "name": "Wrapped PLS",
@@ -30,7 +96,6 @@
         "coingeckoId": "pulsechain"
       }
     },
-
     {
       "chainId": 369,
       "address": "0x600136dA8cc6D1Ea07449514604dc4ab7098dB82",
@@ -86,7 +151,6 @@
         "coingeckoId": "pulsechain"
       }
     },
-
     {
       "chainId": 943,
       "address": "0xBf51d5fE277cCbB53B795BDaD6de2496Cbc8024F",
@@ -120,7 +184,6 @@
         "coingeckoId": "balancer"
       }
     },
-
     {
       "chainId": 943,
       "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",

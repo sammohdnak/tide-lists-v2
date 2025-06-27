@@ -21,6 +21,28 @@
   "tokens": [
     {
       "chainId": 369,
+      "address": "0xdedBCc8D9458B2556375680FbA297C6aCa6c7DCf",
+      "logoURI": "https://raw.githubusercontent.com/sammohdnak/tide-lists-v2/refs/heads/main/tide-logo.png",
+      "name": "TIDE Governance Token",
+      "symbol": "TIDE",
+      "decimals": 18,
+      "extensions": {
+        "coingeckoId": "balancer"
+      }
+    },
+    {
+      "chainId": 369,
+      "address": "0x9d97bA9ca8b5Bd0b09972F8D83313DaBffee9858",
+      "logoURI": "https://raw.githubusercontent.com/sammohdnak/tide-lists-v2/refs/heads/main/tide-logo.png",
+      "name": "Tide 80 TIDE 20 WPLS",
+      "symbol": "T-80TIDE-20WPLS",
+      "decimals": 18,
+      "extensions": {
+        "coingeckoId": "balancer"
+      }
+    },
+    {
+      "chainId": 369,
       "name": "Wrapped Pulse",
       "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
       "symbol": "WPLS",

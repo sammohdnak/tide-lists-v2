@@ -1891,6 +1891,17 @@
     },
     {
       "chainId": 369,
+      "name": "dCST",
+      "address": "0x910F9DA34699e6726290BE01Ed60c080171EEDe2",
+      "symbol": "dCST",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "coingeckoId": "balancer"
+      }
+    },
+    {
+      "chainId": 369,
       "name": "pls.farm",
       "address": "0x90732c0aBC7b44F6e00c4CC90d29293D1DD01d8B",
       "symbol": "COWTIP",

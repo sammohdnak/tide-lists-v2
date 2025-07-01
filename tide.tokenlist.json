@@ -54,6 +54,50 @@
     },
     {
       "chainId": 369,
+      "name": "dCST",
+      "address": "0x910F9DA34699e6726290BE01Ed60c080171EEDe2",
+      "symbol": "dCST",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "coingeckoId": "balancer"
+      }
+    },
+    {
+      "chainId": 369,
+      "name": "dcCST",
+      "address": "0x3a26F07fb0F0aD3b24ACe8C03A400f2a607F9cB7",
+      "symbol": "dcCST",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "coingeckoId": "balancer"
+      }
+    },
+    {
+      "chainId": 369,
+      "name": "dtCST",
+      "address": "0x3a26F07fb0F0aD3b24ACe8C03A400f2a607F9cB7",
+      "symbol": "dtCST",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "coingeckoId": "balancer"
+      }
+    },
+    {
+      "chainId": 369,
+      "name": "cPLS",
+      "address": "0xaEC09A0e86f832CDC6C678139C83BddCEa05E0e3",
+      "symbol": "cPLS",
+      "decimals": 18,
+      "logoURI": "",
+      "extensions": {
+        "coingeckoId": "balancer"
+      }
+    },
+    {
+      "chainId": 369,
       "name": "HEX",
       "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
       "symbol": "HEX",
@@ -1885,39 +1929,6 @@
       "symbol": "PTP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x880Dd541e00B966d829968c3198F11C8ca38A877.png",
-      "extensions": {
-        "coingeckoId": "balancer"
-      }
-    },
-    {
-      "chainId": 369,
-      "name": "dCST",
-      "address": "0x910F9DA34699e6726290BE01Ed60c080171EEDe2",
-      "symbol": "dCST",
-      "decimals": 18,
-      "logoURI": "",
-      "extensions": {
-        "coingeckoId": "balancer"
-      }
-    },
-    {
-      "chainId": 369,
-      "name": "dcCST",
-      "address": "0x3a26F07fb0F0aD3b24ACe8C03A400f2a607F9cB7",
-      "symbol": "dcCST",
-      "decimals": 18,
-      "logoURI": "",
-      "extensions": {
-        "coingeckoId": "balancer"
-      }
-    },
-    {
-      "chainId": 369,
-      "name": "dtCST",
-      "address": "0x3a26F07fb0F0aD3b24ACe8C03A400f2a607F9cB7",
-      "symbol": "dtCST",
-      "decimals": 18,
-      "logoURI": "",
       "extensions": {
         "coingeckoId": "balancer"
       }
